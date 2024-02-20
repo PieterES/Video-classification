@@ -9,4 +9,5 @@ Demonstrates how to load and preprocess AVI video data using the UCF101 human ac
 
 Demonstrates training a 3D convolutional neural network (CNN) for video classification using the UCF101 action recognition dataset. A 3D CNN uses a three-dimensional filter to perform convolutions. The kernel is able to slide in three directions, whereas in a 2D CNN it can slide in two dimensions. The model is based on the work published in A Closer Look at Spatiotemporal Convolutions for Action Recognition by D. Tran et al. (2017).
 
+# Model Visualization
 ![alt text](https://github.com/PieterES/Video-classification/blob/main/model_visualization.png?raw=true)
