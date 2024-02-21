@@ -11,3 +11,5 @@ Demonstrates training a 3D convolutional neural network (CNN) for video classifi
 
 # Model Visualization
 ![alt text](https://github.com/PieterES/Video-classification/blob/main/model_visualization.png?raw=true)
+
+https://www.tensorflow.org/tutorials/video/video_classification
